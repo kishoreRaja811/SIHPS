@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 28/11/24
+## Register Number:24900772
+## Name: kishore R
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
